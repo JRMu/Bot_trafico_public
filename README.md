@@ -4,4 +4,4 @@ Salio de la necesidad de tener informacion de este tramo de carretera de forma c
 
 Aqui un video de su funcionamiento (en el ejemplo no esta filtrado hasta km 60 de ahi que las incidencias de trafico que salen sean de Km superiores)
 
-![Alt Text](https://github.com/JRMu/Bot_Trafico/blob/main/demo.gif)
+![Alt Text](https://github.com/JRMu/Bot_trafico_public/blob/main/demo.gif)
