@@ -1,0 +1,7 @@
+# Carpeta no necesaria
+__pycache__/
+
+#ignorar Log.txt ya que cambia en cada ejecucion y se pude crear automaticamente
+log.txt
+.env
+
